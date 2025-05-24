@@ -13,11 +13,11 @@ export const HeroSection = () => {
     }}>
 
     </div>
-    <div className='size-[620px] hero-ring'></div>
-    <div className='size-[820px] hero-ring'></div>
-    <div className='size-[1020px] hero-ring'></div>
-    <div className='size-[1220px] hero-ring'></div>
-    <div className='absolute'>
+    <div className="size-[620px] hero-ring"></div>
+    <div className="size-[820px] hero-ring"></div>
+    <div className="size-[1020px] hero-ring"></div>
+    <div className="size-[1220px] hero-ring"></div>
+    <div className="absolute">
       <StarIcon className="size-28 text-emerald-300" />
     </div>
     </div>
@@ -47,7 +47,7 @@ export const HeroSection = () => {
         </button>
         <button className='inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl'>
           <span>👋</span>
-          <span className='font-semibold'>Let's Connect</span>
+          <span className='font-semibold'>"Let&#39;s Connect"</span>
         </button>
       </div>
     
